@@ -1,0 +1,16 @@
+pdf2image
+openai
+python-dotenv
+requests
+opencv-python
+
+pymupdf 
+pdf2image 
+pillow 
+opencv-python 
+pandas 
+numpy 
+pydantic 
+python-dateutil 
+rapidfuzz
+python-dotenv
