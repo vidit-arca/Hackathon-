@@ -14,3 +14,5 @@ pydantic
 python-dateutil 
 rapidfuzz
 python-dotenv
+PaddleOCR
+paddlepaddle
